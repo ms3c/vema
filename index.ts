@@ -1,5 +1,5 @@
 // 1. Defining variables with explicit types
-let userName: string = "Alice";
+let userName: string = "Juma";
 let userAge: number = 30;
 let isSubscriber: boolean = true;
 
